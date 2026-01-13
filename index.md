@@ -5,7 +5,7 @@ title: Home
 
 ### Hi there, I'm Jianghan Zhou 👋
 
-**AI Algorithm Engineer @ Kunlun Digital Technology | Independent Researcher**
+AI Algorithm Engineer @ Kunlun Digital Technology | Independent Researcher
 
 > *"Tracing the isomorphism between neural activations and systemic intelligence."*
 
